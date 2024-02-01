@@ -13,7 +13,7 @@ The Executor Framework is particularly useful for managing concurrent tasks in a
 By providing a simple and efficient way to manage task execution, the Executor Framework can help developers improve the performance and scalability of their applications while minimizing the risk of threading errors and other concurrency issues.
 
 
-Executor:
+#### Executor:
 This interface provides a way to execute submitted Runnable tasks.
 
 An Executor is normally used instead of explicitly creating threads.
@@ -46,7 +46,7 @@ The Executor interface is part of java.util.concurrent package and was introduce
 
 #### Executor Service
 
-n Java, an ExecutorService is a higher-level concurrency utility provided by the java.util.concurrent package. It builds on top of the basic threading facilities provided by the language and offers a more flexible and manageable way of executing asynchronous tasks.
+In Java, an ExecutorService is a higher-level concurrency utility provided by the java.util.concurrent package. It builds on top of the basic threading facilities provided by the language and offers a more flexible and manageable way of executing asynchronous tasks.
 
 Here are the key points about ExecutorService:
 
